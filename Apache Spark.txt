@@ -1,0 +1,455 @@
+Microsoft Windows [Version 10.0.18363.778]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\Audrey>cd ..
+
+C:\Users>cd spark-2.4.3-bin-hadoop.6
+The system cannot find the path specified.
+
+C:\Users>\cd spark-2.4.5-bin-hadoop2.6
+'\cd' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users>cd ..
+
+C:\>cd..
+
+C:\>cd spark-2.4.5-bin-hadoop2.6
+The system cannot find the path specified.
+
+C:\>directory of C:\spark-2.4.5-bin-hadoop2.6
+'directory' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\>Directory of C:\spark-2.4.5-bin-hadoop2.6
+'Directory' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\>Directory
+'Directory' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\>spark
+'spark' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\>cd
+C:\
+
+C:\>cd spark-2.4.5-bin-hadoop2.6
+The system cannot find the path specified.
+
+C:\>cd spark-2.4.5-bin-hadoop2.6\bin>spark-shell
+Access is denied.
+
+C:\>cd C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6\bin
+
+C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6\bin>
+C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6\bin>Directory C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6\bin
+'Directory' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6\bin>Directory of C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6\bin
+'Directory' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6\bin>dir C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6\bin
+ Volume in drive C is Acer
+ Volume Serial Number is C4A2-D4DD
+
+ Directory of C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6\bin
+
+2020-02-02  04:01 PM    <DIR>          .
+2020-02-02  04:01 PM    <DIR>          ..
+2020-02-02  04:01 PM             1,089 beeline
+2020-02-02  04:01 PM             1,064 beeline.cmd
+2020-02-02  04:01 PM             5,440 docker-image-tool.sh
+2020-02-02  04:01 PM             1,933 find-spark-home
+2020-02-02  04:01 PM             2,681 find-spark-home.cmd
+2020-02-02  04:01 PM             1,892 load-spark-env.cmd
+2020-02-02  04:01 PM             2,025 load-spark-env.sh
+2020-02-02  04:01 PM             2,987 pyspark
+2020-02-02  04:01 PM             1,170 pyspark.cmd
+2020-02-02  04:01 PM             1,540 pyspark2.cmd
+2020-02-02  04:01 PM             1,030 run-example
+2020-02-02  04:01 PM             1,223 run-example.cmd
+2020-02-02  04:01 PM             3,196 spark-class
+2020-02-02  04:01 PM             1,180 spark-class.cmd
+2020-02-02  04:01 PM             2,817 spark-class2.cmd
+2020-02-02  04:01 PM             3,122 spark-shell
+2020-02-02  04:01 PM             1,178 spark-shell.cmd
+2020-02-02  04:01 PM             1,818 spark-shell2.cmd
+2020-02-02  04:01 PM             1,065 spark-sql
+2020-02-02  04:01 PM             1,173 spark-sql.cmd
+2020-02-02  04:01 PM             1,118 spark-sql2.cmd
+2020-02-02  04:01 PM             1,040 spark-submit
+2020-02-02  04:01 PM             1,180 spark-submit.cmd
+2020-02-02  04:01 PM             1,155 spark-submit2.cmd
+2020-02-02  04:01 PM             1,039 sparkR
+2020-02-02  04:01 PM             1,168 sparkR.cmd
+2020-02-02  04:01 PM             1,097 sparkR2.cmd
+              27 File(s)         47,420 bytes
+               2 Dir(s)  892,043,452,416 bytes free
+
+C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6\bin>
+C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6\bin>Directory of C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6\bin
+'Directory' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6\bin>Directory of C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6
+'Directory' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6\bin>dir C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6
+ Volume in drive C is Acer
+ Volume Serial Number is C4A2-D4DD
+
+ Directory of C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6
+
+2020-02-02  04:01 PM    <DIR>          .
+2020-02-02  04:01 PM    <DIR>          ..
+2020-02-02  04:01 PM    <DIR>          bin
+2020-02-02  04:01 PM    <DIR>          conf
+2020-02-02  04:01 PM    <DIR>          data
+2020-02-02  04:01 PM    <DIR>          examples
+2020-02-02  04:01 PM    <DIR>          jars
+2020-02-02  04:01 PM    <DIR>          kubernetes
+2020-02-02  04:01 PM            21,371 LICENSE
+2020-02-02  04:01 PM    <DIR>          licenses
+2020-02-02  04:01 PM            42,919 NOTICE
+2020-02-02  04:01 PM    <DIR>          python
+2020-02-02  04:01 PM    <DIR>          R
+2020-02-02  04:01 PM             3,756 README.md
+2020-02-02  04:01 PM               187 RELEASE
+2020-02-02  04:01 PM    <DIR>          sbin
+2020-02-02  04:01 PM    <DIR>          yarn
+               4 File(s)         68,233 bytes
+              13 Dir(s)  892,047,245,312 bytes free
+
+C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6\bin>cd bin
+The system cannot find the path specified.
+
+C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6\bin>spark shell
+'spark' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6\bin>cd bin
+The system cannot find the path specified.
+
+C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6\bin>dir C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6\bin
+ Volume in drive C is Acer
+ Volume Serial Number is C4A2-D4DD
+
+ Directory of C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6\bin
+
+2020-02-02  04:01 PM    <DIR>          .
+2020-02-02  04:01 PM    <DIR>          ..
+2020-02-02  04:01 PM             1,089 beeline
+2020-02-02  04:01 PM             1,064 beeline.cmd
+2020-02-02  04:01 PM             5,440 docker-image-tool.sh
+2020-02-02  04:01 PM             1,933 find-spark-home
+2020-02-02  04:01 PM             2,681 find-spark-home.cmd
+2020-02-02  04:01 PM             1,892 load-spark-env.cmd
+2020-02-02  04:01 PM             2,025 load-spark-env.sh
+2020-02-02  04:01 PM             2,987 pyspark
+2020-02-02  04:01 PM             1,170 pyspark.cmd
+2020-02-02  04:01 PM             1,540 pyspark2.cmd
+2020-02-02  04:01 PM             1,030 run-example
+2020-02-02  04:01 PM             1,223 run-example.cmd
+2020-02-02  04:01 PM             3,196 spark-class
+2020-02-02  04:01 PM             1,180 spark-class.cmd
+2020-02-02  04:01 PM             2,817 spark-class2.cmd
+2020-02-02  04:01 PM             3,122 spark-shell
+2020-02-02  04:01 PM             1,178 spark-shell.cmd
+2020-02-02  04:01 PM             1,818 spark-shell2.cmd
+2020-02-02  04:01 PM             1,065 spark-sql
+2020-02-02  04:01 PM             1,173 spark-sql.cmd
+2020-02-02  04:01 PM             1,118 spark-sql2.cmd
+2020-02-02  04:01 PM             1,040 spark-submit
+2020-02-02  04:01 PM             1,180 spark-submit.cmd
+2020-02-02  04:01 PM             1,155 spark-submit2.cmd
+2020-02-02  04:01 PM             1,039 sparkR
+2020-02-02  04:01 PM             1,168 sparkR.cmd
+2020-02-02  04:01 PM             1,097 sparkR2.cmd
+              27 File(s)         47,420 bytes
+               2 Dir(s)  892,047,151,104 bytes free
+
+C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6\bin>spark-shell
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/C:/Spark/spark-2.4.5-bin-hadoop2.6/spark-2.4.5-bin-hadoop2.6/jars/spark-unsafe_2.11-2.4.5.jar) to method java.nio.Bits.unaligned()
+WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+20/05/07 02:14:42 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+20/05/07 02:14:42 ERROR Shell: Failed to locate the winutils binary in the hadoop binary path
+java.io.IOException: Could not locate executable null\bin\winutils.exe in the Hadoop binaries.
+        at org.apache.hadoop.util.Shell.getQualifiedBinPath(Shell.java:378)
+        at org.apache.hadoop.util.Shell.getWinUtilsPath(Shell.java:393)
+        at org.apache.hadoop.util.Shell.<clinit>(Shell.java:386)
+        at org.apache.hadoop.util.StringUtils.<clinit>(StringUtils.java:79)
+        at org.apache.hadoop.security.Groups.parseStaticMapping(Groups.java:116)
+        at org.apache.hadoop.security.Groups.<init>(Groups.java:93)
+        at org.apache.hadoop.security.Groups.<init>(Groups.java:73)
+        at org.apache.hadoop.security.Groups.getUserToGroupsMappingService(Groups.java:293)
+        at org.apache.hadoop.security.UserGroupInformation.initialize(UserGroupInformation.java:283)
+        at org.apache.hadoop.security.UserGroupInformation.ensureInitialized(UserGroupInformation.java:260)
+        at org.apache.hadoop.security.UserGroupInformation.loginUserFromSubject(UserGroupInformation.java:789)
+        at org.apache.hadoop.security.UserGroupInformation.getLoginUser(UserGroupInformation.java:774)
+        at org.apache.hadoop.security.UserGroupInformation.getCurrentUser(UserGroupInformation.java:647)
+        at org.apache.spark.util.Utils$$anonfun$getCurrentUserName$1.apply(Utils.scala:2422)
+        at org.apache.spark.util.Utils$$anonfun$getCurrentUserName$1.apply(Utils.scala:2422)
+        at scala.Option.getOrElse(Option.scala:121)
+        at org.apache.spark.util.Utils$.getCurrentUserName(Utils.scala:2422)
+        at org.apache.spark.SecurityManager.<init>(SecurityManager.scala:79)
+        at org.apache.spark.deploy.SparkSubmit.secMgr$lzycompute$1(SparkSubmit.scala:348)
+        at org.apache.spark.deploy.SparkSubmit.org$apache$spark$deploy$SparkSubmit$$secMgr$1(SparkSubmit.scala:348)
+        at org.apache.spark.deploy.SparkSubmit$$anonfun$prepareSubmitEnvironment$7.apply(SparkSubmit.scala:356)
+        at org.apache.spark.deploy.SparkSubmit$$anonfun$prepareSubmitEnvironment$7.apply(SparkSubmit.scala:356)
+        at scala.Option.map(Option.scala:146)
+        at org.apache.spark.deploy.SparkSubmit.prepareSubmitEnvironment(SparkSubmit.scala:355)
+        at org.apache.spark.deploy.SparkSubmit.org$apache$spark$deploy$SparkSubmit$$runMain(SparkSubmit.scala:774)
+        at org.apache.spark.deploy.SparkSubmit.doRunMain$1(SparkSubmit.scala:161)
+        at org.apache.spark.deploy.SparkSubmit.submit(SparkSubmit.scala:184)
+        at org.apache.spark.deploy.SparkSubmit.doSubmit(SparkSubmit.scala:86)
+        at org.apache.spark.deploy.SparkSubmit$$anon$2.doSubmit(SparkSubmit.scala:920)
+        at org.apache.spark.deploy.SparkSubmit$.main(SparkSubmit.scala:929)
+        at org.apache.spark.deploy.SparkSubmit.main(SparkSubmit.scala)
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+Spark context Web UI available at http://LAPTOP-MJS7EHF0:4040
+Spark context available as 'sc' (master = local[*], app id = local-1588832111923).
+Spark session available as 'spark'.
+Welcome to
+      ____              __
+     / __/__  ___ _____/ /__
+    _\ \/ _ \/ _ `/ __/  '_/
+   /___/ .__/\_,_/_/ /_/\_\   version 2.4.5
+      /_/
+
+Using Scala version 2.11.12 (Java HotSpot(TM) 64-Bit Server VM, Java 11.0.2)
+Type in expressions to have them evaluated.
+Type :help for more information.
+
+scala> val x=sc.
+accumulable             clearCallSite             getRDDStorageInfo     newAPIHadoopFile        setLocalProperty
+accumulableCollection   clearJobGroup             getSchedulingMode     newAPIHadoopRDD         setLogLevel
+accumulator             collectionAccumulator     hadoopConfiguration   objectFile              sparkUser
+addFile                 defaultMinPartitions      hadoopFile            parallelize             startTime
+addJar                  defaultParallelism        hadoopRDD             range                   statusTracker
+addSparkListener        deployMode                isLocal               register                stop
+appName                 doubleAccumulator         isStopped             removeSparkListener     submitJob
+applicationAttemptId    emptyRDD                  jars                  requestExecutors        textFile
+applicationId           files                     killExecutor          requestTotalExecutors   uiWebUrl
+binaryFiles             getAllPools               killExecutors         runApproximateJob       union
+binaryRecords           getCheckpointDir          killTaskAttempt       runJob                  version
+broadcast               getConf                   listFiles             sequenceFile            wholeTextFiles
+cancelAllJobs           getExecutorMemoryStatus   listJars              setCallSite
+cancelJob               getLocalProperty          longAccumulator       setCheckpointDir
+cancelJobGroup          getPersistentRDDs         makeRDD               setJobDescription
+cancelStage             getPoolForName            master                setJobGroup
+
+scala> val x=sc.
+accumulable             clearCallSite             getRDDStorageInfo     newAPIHadoopFile        setLocalProperty
+accumulableCollection   clearJobGroup             getSchedulingMode     newAPIHadoopRDD         setLogLevel
+accumulator             collectionAccumulator     hadoopConfiguration   objectFile              sparkUser
+addFile                 defaultMinPartitions      hadoopFile            parallelize             startTime
+addJar                  defaultParallelism        hadoopRDD             range                   statusTracker
+addSparkListener        deployMode                isLocal               register                stop
+appName                 doubleAccumulator         isStopped             removeSparkListener     submitJob
+applicationAttemptId    emptyRDD                  jars                  requestExecutors        textFile
+applicationId           files                     killExecutor          requestTotalExecutors   uiWebUrl
+binaryFiles             getAllPools               killExecutors         runApproximateJob       union
+binaryRecords           getCheckpointDir          killTaskAttempt       runJob                  version
+broadcast               getConf                   listFiles             sequenceFile            wholeTextFiles
+cancelAllJobs           getExecutorMemoryStatus   listJars              setCallSite
+cancelJob               getLocalProperty          longAccumulator       setCheckpointDir
+cancelJobGroup          getPersistentRDDs         makeRDD               setJobDescription
+cancelStage             getPoolForName            master                setJobGroup
+
+scala> val x=sc.
+!=                      cancelJobGroup            getLocalProperty      master                  setLocalProperty
+##                      cancelStage               getPersistentRDDs     ne                      setLogLevel
++                       clearCallSite             getPoolForName        newAPIHadoopFile        sparkUser
+->                      clearJobGroup             getRDDStorageInfo     newAPIHadoopRDD         startTime
+==                      collectionAccumulator     getSchedulingMode     notify                  statusTracker
+accumulable             defaultMinPartitions      hadoopConfiguration   notifyAll               stop
+accumulableCollection   defaultParallelism        hadoopFile            objectFile              submitJob
+accumulator             deployMode                hadoopRDD             parallelize             synchronized
+addFile                 doubleAccumulator         hashCode              range                   textFile
+addJar                  emptyRDD                  isInstanceOf          register                toString
+addSparkListener        ensuring                  isLocal               removeSparkListener     uiWebUrl
+appName                 eq                        isStopped             requestExecutors        union
+applicationAttemptId    equals                    jars                  requestTotalExecutors   version
+applicationId           files                     killExecutor          runApproximateJob       wait
+asInstanceOf            formatted                 killExecutors         runJob                  wholeTextFiles
+binaryFiles             getAllPools               killTaskAttempt       sequenceFile            ?
+binaryRecords           getCheckpointDir          listFiles             setCallSite
+broadcast               getClass                  listJars              setCheckpointDir
+cancelAllJobs           getConf                   longAccumulator       setJobDescription
+cancelJob               getExecutorMemoryStatus   makeRDD               setJobGroup
+
+scala> val x=sc.textFile("README.rd")
+x: org.apache.spark.rdd.RDD[String] = README.rd MapPartitionsRDD[1] at textFile at <console>:24
+
+scala> val y=x.map(_.toUpperCase)
+y: org.apache.spark.rdd.RDD[String] = MapPartitionsRDD[2] at map at <console>:25
+
+scala> y.count
+org.apache.hadoop.mapred.InvalidInputException: Input path does not exist: file:/C:/Spark/spark-2.4.5-bin-hadoop2.6/spark-2.4.5-bin-hadoop2.6/bin/README.rd
+  at org.apache.hadoop.mapred.FileInputFormat.singleThreadedListStatus(FileInputFormat.java:285)
+  at org.apache.hadoop.mapred.FileInputFormat.listStatus(FileInputFormat.java:228)
+  at org.apache.hadoop.mapred.FileInputFormat.getSplits(FileInputFormat.java:313)
+  at org.apache.spark.rdd.HadoopRDD.getPartitions(HadoopRDD.scala:204)
+  at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:273)
+  at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:269)
+  at scala.Option.getOrElse(Option.scala:121)
+  at org.apache.spark.rdd.RDD.partitions(RDD.scala:269)
+  at org.apache.spark.rdd.MapPartitionsRDD.getPartitions(MapPartitionsRDD.scala:49)
+  at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:273)
+  at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:269)
+  at scala.Option.getOrElse(Option.scala:121)
+  at org.apache.spark.rdd.RDD.partitions(RDD.scala:269)
+  at org.apache.spark.rdd.MapPartitionsRDD.getPartitions(MapPartitionsRDD.scala:49)
+  at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:273)
+  at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:269)
+  at scala.Option.getOrElse(Option.scala:121)
+  at org.apache.spark.rdd.RDD.partitions(RDD.scala:269)
+  at org.apache.spark.SparkContext.runJob(SparkContext.scala:2126)
+  at org.apache.spark.rdd.RDD.count(RDD.scala:1213)
+  ... 49 elided
+
+scala> :quit
+20/05/07 02:27:29 ERROR ShutdownHookManager: Exception while deleting Spark temp dir: C:\Users\Audrey\AppData\Local\Temp\spark-4bdbcf4e-51eb-4da9-af8c-6bdcf7396013\repl-48601601-f4c1-444e-8a1e-2dbd39e58ebb
+java.io.IOException: Failed to delete: C:\Users\Audrey\AppData\Local\Temp\spark-4bdbcf4e-51eb-4da9-af8c-6bdcf7396013\repl-48601601-f4c1-444e-8a1e-2dbd39e58ebb\$line21\$read.class
+        at org.apache.spark.network.util.JavaUtils.deleteRecursivelyUsingJavaIO(JavaUtils.java:144)
+        at org.apache.spark.network.util.JavaUtils.deleteRecursively(JavaUtils.java:118)
+        at org.apache.spark.network.util.JavaUtils.deleteRecursivelyUsingJavaIO(JavaUtils.java:128)
+        at org.apache.spark.network.util.JavaUtils.deleteRecursively(JavaUtils.java:118)
+        at org.apache.spark.network.util.JavaUtils.deleteRecursivelyUsingJavaIO(JavaUtils.java:128)
+        at org.apache.spark.network.util.JavaUtils.deleteRecursively(JavaUtils.java:118)
+        at org.apache.spark.network.util.JavaUtils.deleteRecursively(JavaUtils.java:91)
+        at org.apache.spark.util.Utils$.deleteRecursively(Utils.scala:1062)
+        at org.apache.spark.util.ShutdownHookManager$$anonfun$1$$anonfun$apply$mcV$sp$3.apply(ShutdownHookManager.scala:65)
+        at org.apache.spark.util.ShutdownHookManager$$anonfun$1$$anonfun$apply$mcV$sp$3.apply(ShutdownHookManager.scala:62)
+        at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+        at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+        at org.apache.spark.util.ShutdownHookManager$$anonfun$1.apply$mcV$sp(ShutdownHookManager.scala:62)
+        at org.apache.spark.util.SparkShutdownHook.run(ShutdownHookManager.scala:216)
+        at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1$$anonfun$apply$mcV$sp$1.apply$mcV$sp(ShutdownHookManager.scala:188)
+        at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1$$anonfun$apply$mcV$sp$1.apply(ShutdownHookManager.scala:188)
+        at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1$$anonfun$apply$mcV$sp$1.apply(ShutdownHookManager.scala:188)
+        at org.apache.spark.util.Utils$.logUncaughtExceptions(Utils.scala:1945)
+        at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1.apply$mcV$sp(ShutdownHookManager.scala:188)
+        at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1.apply(ShutdownHookManager.scala:188)
+        at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1.apply(ShutdownHookManager.scala:188)
+        at scala.util.Try$.apply(Try.scala:192)
+        at org.apache.spark.util.SparkShutdownHookManager.runAll(ShutdownHookManager.scala:188)
+        at org.apache.spark.util.SparkShutdownHookManager$$anon$2.run(ShutdownHookManager.scala:178)
+        at org.apache.hadoop.util.ShutdownHookManager$1.run(ShutdownHookManager.java:54)
+20/05/07 02:27:29 ERROR ShutdownHookManager: Exception while deleting Spark temp dir: C:\Users\Audrey\AppData\Local\Temp\spark-4bdbcf4e-51eb-4da9-af8c-6bdcf7396013
+java.io.IOException: Failed to delete: C:\Users\Audrey\AppData\Local\Temp\spark-4bdbcf4e-51eb-4da9-af8c-6bdcf7396013\repl-48601601-f4c1-444e-8a1e-2dbd39e58ebb\$line21\$read.class
+        at org.apache.spark.network.util.JavaUtils.deleteRecursivelyUsingJavaIO(JavaUtils.java:144)
+        at org.apache.spark.network.util.JavaUtils.deleteRecursively(JavaUtils.java:118)
+        at org.apache.spark.network.util.JavaUtils.deleteRecursivelyUsingJavaIO(JavaUtils.java:128)
+        at org.apache.spark.network.util.JavaUtils.deleteRecursively(JavaUtils.java:118)
+        at org.apache.spark.network.util.JavaUtils.deleteRecursivelyUsingJavaIO(JavaUtils.java:128)
+        at org.apache.spark.network.util.JavaUtils.deleteRecursively(JavaUtils.java:118)
+        at org.apache.spark.network.util.JavaUtils.deleteRecursivelyUsingJavaIO(JavaUtils.java:128)
+        at org.apache.spark.network.util.JavaUtils.deleteRecursively(JavaUtils.java:118)
+        at org.apache.spark.network.util.JavaUtils.deleteRecursively(JavaUtils.java:91)
+        at org.apache.spark.util.Utils$.deleteRecursively(Utils.scala:1062)
+        at org.apache.spark.util.ShutdownHookManager$$anonfun$1$$anonfun$apply$mcV$sp$3.apply(ShutdownHookManager.scala:65)
+        at org.apache.spark.util.ShutdownHookManager$$anonfun$1$$anonfun$apply$mcV$sp$3.apply(ShutdownHookManager.scala:62)
+        at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+        at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+        at org.apache.spark.util.ShutdownHookManager$$anonfun$1.apply$mcV$sp(ShutdownHookManager.scala:62)
+        at org.apache.spark.util.SparkShutdownHook.run(ShutdownHookManager.scala:216)
+        at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1$$anonfun$apply$mcV$sp$1.apply$mcV$sp(ShutdownHookManager.scala:188)
+        at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1$$anonfun$apply$mcV$sp$1.apply(ShutdownHookManager.scala:188)
+        at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1$$anonfun$apply$mcV$sp$1.apply(ShutdownHookManager.scala:188)
+        at org.apache.spark.util.Utils$.logUncaughtExceptions(Utils.scala:1945)
+        at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1.apply$mcV$sp(ShutdownHookManager.scala:188)
+        at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1.apply(ShutdownHookManager.scala:188)
+        at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1.apply(ShutdownHookManager.scala:188)
+        at scala.util.Try$.apply(Try.scala:192)
+        at org.apache.spark.util.SparkShutdownHookManager.runAll(ShutdownHookManager.scala:188)
+        at org.apache.spark.util.SparkShutdownHookManager$$anon$2.run(ShutdownHookManager.scala:178)
+        at org.apache.hadoop.util.ShutdownHookManager$1.run(ShutdownHookManager.java:54)
+
+C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6\bin>cd ..
+
+C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6>cd ..
+
+C:\Spark\spark-2.4.5-bin-hadoop2.6>cd..
+
+C:\Spark>
+C:\Spark>cd ..
+
+C:\>cd C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6
+
+C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6>.\bin/spark-shell
+'.\bin' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Spark\spark-2.4.5-bin-hadoop2.6\spark-2.4.5-bin-hadoop2.6>.\bin\spark-shell
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/C:/Spark/spark-2.4.5-bin-hadoop2.6/spark-2.4.5-bin-hadoop2.6/jars/spark-unsafe_2.11-2.4.5.jar) to method java.nio.Bits.unaligned()
+WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+20/05/07 02:33:53 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+20/05/07 02:33:53 ERROR Shell: Failed to locate the winutils binary in the hadoop binary path
+java.io.IOException: Could not locate executable null\bin\winutils.exe in the Hadoop binaries.
+        at org.apache.hadoop.util.Shell.getQualifiedBinPath(Shell.java:378)
+        at org.apache.hadoop.util.Shell.getWinUtilsPath(Shell.java:393)
+        at org.apache.hadoop.util.Shell.<clinit>(Shell.java:386)
+        at org.apache.hadoop.util.StringUtils.<clinit>(StringUtils.java:79)
+        at org.apache.hadoop.security.Groups.parseStaticMapping(Groups.java:116)
+        at org.apache.hadoop.security.Groups.<init>(Groups.java:93)
+        at org.apache.hadoop.security.Groups.<init>(Groups.java:73)
+        at org.apache.hadoop.security.Groups.getUserToGroupsMappingService(Groups.java:293)
+        at org.apache.hadoop.security.UserGroupInformation.initialize(UserGroupInformation.java:283)
+        at org.apache.hadoop.security.UserGroupInformation.ensureInitialized(UserGroupInformation.java:260)
+        at org.apache.hadoop.security.UserGroupInformation.loginUserFromSubject(UserGroupInformation.java:789)
+        at org.apache.hadoop.security.UserGroupInformation.getLoginUser(UserGroupInformation.java:774)
+        at org.apache.hadoop.security.UserGroupInformation.getCurrentUser(UserGroupInformation.java:647)
+        at org.apache.spark.util.Utils$$anonfun$getCurrentUserName$1.apply(Utils.scala:2422)
+        at org.apache.spark.util.Utils$$anonfun$getCurrentUserName$1.apply(Utils.scala:2422)
+        at scala.Option.getOrElse(Option.scala:121)
+        at org.apache.spark.util.Utils$.getCurrentUserName(Utils.scala:2422)
+        at org.apache.spark.SecurityManager.<init>(SecurityManager.scala:79)
+        at org.apache.spark.deploy.SparkSubmit.secMgr$lzycompute$1(SparkSubmit.scala:348)
+        at org.apache.spark.deploy.SparkSubmit.org$apache$spark$deploy$SparkSubmit$$secMgr$1(SparkSubmit.scala:348)
+        at org.apache.spark.deploy.SparkSubmit$$anonfun$prepareSubmitEnvironment$7.apply(SparkSubmit.scala:356)
+        at org.apache.spark.deploy.SparkSubmit$$anonfun$prepareSubmitEnvironment$7.apply(SparkSubmit.scala:356)
+        at scala.Option.map(Option.scala:146)
+        at org.apache.spark.deploy.SparkSubmit.prepareSubmitEnvironment(SparkSubmit.scala:355)
+        at org.apache.spark.deploy.SparkSubmit.org$apache$spark$deploy$SparkSubmit$$runMain(SparkSubmit.scala:774)
+        at org.apache.spark.deploy.SparkSubmit.doRunMain$1(SparkSubmit.scala:161)
+        at org.apache.spark.deploy.SparkSubmit.submit(SparkSubmit.scala:184)
+        at org.apache.spark.deploy.SparkSubmit.doSubmit(SparkSubmit.scala:86)
+        at org.apache.spark.deploy.SparkSubmit$$anon$2.doSubmit(SparkSubmit.scala:920)
+        at org.apache.spark.deploy.SparkSubmit$.main(SparkSubmit.scala:929)
+        at org.apache.spark.deploy.SparkSubmit.main(SparkSubmit.scala)
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+Spark context Web UI available at http://LAPTOP-MJS7EHF0:4040
+Spark context available as 'sc' (master = local[*], app id = local-1588833265662).
+Spark session available as 'spark'.
+Welcome to
+      ____              __
+     / __/__  ___ _____/ /__
+    _\ \/ _ \/ _ `/ __/  '_/
+   /___/ .__/\_,_/_/ /_/\_\   version 2.4.5
+      /_/
+
+Using Scala version 2.11.12 (Java HotSpot(TM) 64-Bit Server VM, Java 11.0.2)
+Type in expressions to have them evaluated.
+Type :help for more information.
+
+scala> val x= sc.textFile("README.md")
+x: org.apache.spark.rdd.RDD[String] = README.md MapPartitionsRDD[1] at textFile at <console>:24
+
+scala>
